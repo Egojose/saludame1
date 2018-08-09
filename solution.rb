@@ -8,5 +8,3 @@ get '/' do
     end
 end
 
-"/?nombre=Jose"
-params = {nombre: "Jose"}
